@@ -1,3 +1,0 @@
-Hola, Javi!
-
-Esto es un archivo de prueba para subir al repositorio.
